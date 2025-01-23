@@ -1,4 +1,4 @@
-README: R Markdown Webpage with Leaflet Map
+ Markdown Webpage with Leaflet Map
 Project Overview
 This project creates an interactive web page using R Markdown, featuring a Leaflet map. The page will be hosted on either GitHub Pages, RPubs, or NeoCities, depending on user preference. It includes the creation date and showcases the use of Leaflet for interactive mapping.
 
